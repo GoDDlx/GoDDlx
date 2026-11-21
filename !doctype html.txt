@@ -1,168 +1,51 @@
 
-<!--
-  GoDDlx | Ultimate GitHub Profile README
-  Repository: https://github.com/GoDDlx/GoDDlx
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,50:4B0082,100:8A2BE2&text=DARPAN%20THARU&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Data%20Analyst%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
-
-<a href="https://github.com/GoDDlx">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Developer;Python+%26+Data+Analytics+Enthusiast;Building+Ideas+Into+Reality;Always+Learning+Something+New!" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://github.com/GoDDlx">
-<img src="https://komarev.com/ghpvc/?username=GoDDlx&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" />
-</a>
-<a href="https://github.com/GoDDlx?tab=followers">
-<img src="https://img.shields.io/github/followers/GoDDlx?style=for-the-badge&color=6A0DAD&label=FOLLOWERS" />
-</a>
-<a href="https://github.com/GoDDlx?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-8A2BE2?style=for-the-badge&logo=github" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:090014,50:30105C,100:8A2BE2&text=GoDDlx&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Building%20Ideas%20Into%20Reality&descAlignY=65&descSize=18" width="100%" />
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-Hello! I'm **Darpan Tharu**, a developer and technology enthusiast from Nepal 🇳🇵.
-
-I'm passionate about software development, data analytics, and building useful digital solutions. I enjoy exploring new technologies, solving problems, and transforming ideas into real-world applications.
-
-- 🔭 Working on full-stack development and data analytics projects.
-- 🌱 Learning DevOps, cloud computing, and advanced development technologies.
-- 💻 Interested in Python, PHP, JavaScript, and database management.
-- 📊 Exploring data cleaning, visualization, and statistical analysis.
-- 🚀 Focused on continuous learning and practical project development.
-- 🤝 Open to collaboration, internships, and open-source contributions.
-
-> "Great things are built one line of code at a time."
-
----
-
-## ⚡ Tech Stack & Skills
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
-</p>
-
-### 📊 Data Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge" />
-</p>
-
-### 🗄️ Database & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,php" />
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,docker,githubactions" />
-</p>
-
-### 🔍 Currently Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,fastapi,aws,jenkins" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%">
+<td width="58%" valign="top">
 
-### 🚌 Online Bus Reservation System
+<h3>👋 Hi there, I'm <span style="color:#A78BFA;">Darpan Tharu</span></h3>
 
-A web-based platform for managing bus bookings and seat reservations.
+<a href="https://github.com/GoDDlx">
+<img src="https://img.shields.io/badge/GitHub-GoDDlx-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:sayogndarpan98@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-**Features**
-- Online seat selection
-- Booking management
-- Reservation database
-- Payment integration exploration
+<h3>✨ Glad to see you here!</h3>
 
-**Tech:** PHP, MySQL, JavaScript
+I'm a developer and technology enthusiast from **Nepal 🇳🇵**.
 
-</td>
-<td width="50%">
+I love programming, exploring new technologies, solving problems, and building applications that make a difference.
 
-### 🏥 Doctor Appointment Management System
+My interests include software development, data analytics, web technologies, and DevOps.
 
-A web application designed to simplify patient appointments and doctor management.
+<h3>💻 Talking About Personal Stuff:</h3>
 
-**Features**
-- Appointment scheduling
-- Patient management
-- Doctor management
-- Payment integration
-
-**Tech:** PHP, MySQL, JavaScript
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 IPL Data Analysis
-
-Exploring cricket datasets to identify trends and compare team performance.
-
-**Features**
-- Data preprocessing
-- Statistical analysis
-- Category grouping
-- Data visualization
-
-**Tech:** Python, Pandas, NumPy
+- 🔭 Currently working on exciting software projects.
+- 🌱 Learning Data Analytics, DevOps, and Cloud Computing.
+- 💡 Interested in Full-Stack Development and Python.
+- 📊 Exploring data visualization and analytical solutions.
+- 🤝 Open to collaboration and open-source projects.
+- 💬 Ask me about Python, PHP, MySQL, and Web Development.
+- 📫 Reach me at: **sayogndarpan98@gmail.com**
+- 🌐 GitHub: [GoDDlx](https://github.com/GoDDlx)
 
 </td>
-<td width="50%">
 
-### 📈 Time-Series & Category Charts
+<td width="42%" align="center" valign="middle">
 
-A data visualization project focused on analyzing trends and categorical information.
+<img src="https://illustrations.popsy.co/gray/work-from-home.svg" width="100%" alt="Developer working at a computer" />
 
-**Features**
-- Time-series visualization
-- Category comparisons
-- Data transformation
-- Trend interpretation
+<h3>🚀 Developer in Progress</h3>
 
-**Tech:** Python, Pandas, Visualization
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 💜 SkillLoop
-
-A skill-sharing and learning platform concept designed to connect people through collaborative learning.
-
-**Tech:** Full-Stack Development, PostgreSQL
+<em>Learn. Build. Innovate.</em>
 
 </td>
 </tr>
@@ -170,19 +53,103 @@ A skill-sharing and learning platform concept designed to connect people through
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-<div align="center">
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GoDDlx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github" />
+<h3 align="center">Frameworks & Development</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs,laravel,fastapi" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoDDlx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" />
+<h3 align="center">Database & Data Analytics</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-</div>
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,docker,githubactions" />
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+<h2 align="center">🚀 My Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚌 Online Bus Reservation System
+
+- Online bus booking
+- Seat selection
+- Reservation management
+- PHP and MySQL
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Doctor Appointment System
+
+- Doctor management
+- Patient appointments
+- Appointment scheduling
+- PHP and MySQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 IPL Data Analysis
+
+- Cricket dataset analysis
+- Data cleaning
+- Statistical summaries
+- Python and Pandas
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Time-Series & Category Charts
+
+- Time-series analysis
+- Category visualization
+- Trend identification
+- Python and Pandas
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 💜 SkillLoop
+
+A modern skill-sharing and collaborative learning platform built around connecting people through technology.
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GoDDlx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoDDlx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+
+</div>
+
+<h2 align="center">🔥 Contribution Streak</h2>
 
 <div align="center">
 
@@ -190,9 +157,7 @@ A skill-sharing and learning platform concept designed to connect people through
 
 </div>
 
----
-
-## 📈 Contribution Activity
+<h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
 
@@ -202,57 +167,41 @@ A skill-sharing and learning platform concept designed to connect people through
 
 ---
 
-## 🏆 GitHub Achievements
+<h2 align="center">🎯 My 2026 Goals</h2>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GoDDlx&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" />
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-- [ ] Build and deploy full-stack applications.
-- [ ] Improve advanced Python programming skills.
-- [ ] Master data analytics and visualization.
-- [ ] Learn Docker and CI/CD pipelines.
-- [ ] Explore cloud infrastructure.
+- [ ] Build professional full-stack applications.
+- [ ] Improve Python and programming skills.
+- [ ] Master Data Analytics.
+- [ ] Learn Docker and CI/CD.
+- [ ] Explore cloud technologies.
 - [ ] Contribute to open-source projects.
-- [ ] Build a professional developer portfolio.
+- [ ] Build and deploy my personal portfolio.
 
 ---
 
-## 🤝 Connect With Me
+<h2 align="center">🤝 Let's Connect</h2>
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/GoDDlx">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
-<!-- Add your actual social profile URLs below -->
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:sayogndarpan98@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
+</p>
 
 <div align="center">
 
 ### 💜 Thanks for visiting my profile!
 
-**If you like my work, consider giving my repositories a ⭐**
+**Code. Create. Innovate. Repeat.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:090014&height=120&section=footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=GoDDlx&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:30105C,100:090014&height=120&section=footer" width="100%" />
 
 <sub>Designed with 💜 by Darpan Tharu | © 2026</sub>
 
